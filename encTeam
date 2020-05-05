@@ -1,0 +1,28 @@
+Methods in java.lang.Object
+Can we extend String class
+Can we extend String Buffer and String Builder
+What is DRY and what is SOLID priniciples
+What is aggregation and composition
+how can we control Singleton using clone()
+Difference between HashMap and ConcurrentHashMap
+what is CopyOnWriteArrayList why don't we use it often
+5 steps to connect to JDBC
+diff between statment,prepared statement,callable statement
+--------=Class.getForName("java.lang.String");
+Class cls
+Method of getting contructor ,fields, methods is called --reflection
+How do you debug your application
+Steps involved to connect to db using hibernate
+Levels of debugging
+Difference between Controller and RestController
+Difference between Spring and Spring boot
+What is as entity and various components in it
+What is RestTemplate
+What is Actuator
+How do you test your rest resource  -postman/rest api/swagger
+
+FrontEnd
+How do you call end service from angular
+What is a component
+How do you debug front end application
+How do you valid First Name etc
